@@ -1,2 +1,4 @@
 hello!!
+<<<<<<< HEAD
 local to remote
+>>>>>>> refs/remotes/origin/master
